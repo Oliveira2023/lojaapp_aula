@@ -27,8 +27,8 @@ public class MainActivity extends AppCompatActivity {
 
         productList = new ArrayList<>();
         productList.add(new Product("Camiseta", 29.99F, R.drawable.camiseta_azul));
-        productList.add(new Product("Calça", 59.99F, R.drawable.tenis));
-        productList.add(new Product("Tênis", 99.99F, R.drawable.jeans));
+        productList.add(new Product("Calça", 59.99F, R.drawable.jeans));
+        productList.add(new Product("Tênis", 99.99F, R.drawable.tenis));
         productList.add(new Product("Meia", 19.99F));
         productList.add(new Product("Blusa", 39.99F));
         productList.add(new Product("Sapato", 79.99F));
